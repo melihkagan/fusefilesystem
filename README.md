@@ -12,6 +12,6 @@ to run with debug mode:
 to unmount:
 fusermount -u /mount_directory
 
-Şamil Taner Cengiz
-Melih Kağan Özçelik
+Şamil Taner Cengiz \n
+Melih Kağan Özçelik \n
 Halil İbrahim Yavuz
